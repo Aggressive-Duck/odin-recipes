@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Garamond, Georgia, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    opacity: 0.6;
+}
+
+h1 {
+    color: aqua;
+    font-size: 50px;
+}
+
+a {
+    color: red;
+}
